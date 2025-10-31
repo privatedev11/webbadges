@@ -4,4 +4,4 @@ Yes, you can use these on your website, but of course, I'd appreciate some attri
 
 [![MIT Licence badge](https://raw.githubusercontent.com/privatedev11/webbadges/refs/heads/main/GIFs/MITlicence.gif)](https://opensource.org/license/mit)
 
-Want to suggest a badge? Make an issue here, or [fill out the form](https://forms.gle/TWgAS2J3pqw8Jxew5), and an issue will be magically created for you!
+Want to suggest a badge? Make an issue here, or [fill out the form](https://forms.gle/TWgAS2J3pqw8Jxew5), and an issue will be magically created for you! Or, you can make your own and make a pull request or issue.
